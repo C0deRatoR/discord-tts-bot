@@ -1,0 +1,46 @@
+# Core Discord and async functionality
+discord.py==2.3.2
+aiohttp==3.9.3
+asyncio-mqtt==0.12.1
+pynacl
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Machine Learning and TTS
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+coqui-tts==0.22.1
+
+# ElevenLabs API
+elevenlabs==1.0.0
+
+# Audio processing
+pydub==0.25.1
+librosa==0.10.1
+soundfile==0.12.1
+scipy==1.11.4
+numpy==1.24.3
+
+# HTTP requests
+requests==2.31.0
+urllib3==2.0.7
+
+# Data handling
+pathlib2==2.3.7
+json5==0.9.14
+
+# Performance optimization
+numba==0.58.1
+psutil==5.9.6
+
+# Audio format support
+ffmpeg-python==0.2.0
+
+# GPU acceleration support
+nvidia-ml-py3==7.352.0
+
+# Additional utilities
+colorama==0.4.6
+tqdm==4.66.1
